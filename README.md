@@ -1,3 +1,3 @@
-# loopback-storage-mongo
+# loopback-connector-mongo-storage
 
 Under construction...

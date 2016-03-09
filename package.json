@@ -1,11 +1,9 @@
 {
-  "name": "loopback-storage-mongo",
+  "name": "loopback-connector-mongo-storage",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-
-  },
+  "scripts": {},
   "author": "dcVersus <dcversus@gmail.com>",
   "license": "ISC",
   "dependencies": {
