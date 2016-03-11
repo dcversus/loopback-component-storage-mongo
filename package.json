@@ -11,10 +11,12 @@
     "bluebird": "^3.0.6",
     "busboy": "^0.2.11",
     "debug": "^2.2.0",
+    "formidable": "^1.0.17",
     "gridfs-stream": "^1.1.1",
     "lodash": "^3.10.1",
     "loopback-connector": "^2.3.0",
-    "formidable": "^1.0.17",
+    "loopback-connector-remote": "^1.2.0",
+    "loopback-datasource-juggler": "^2.45.2",
     "mongodb": "^2.0.45"
   },
   "devDependencies": {
